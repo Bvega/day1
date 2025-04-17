@@ -1,0 +1,6 @@
+# Force LF line endings
+* text=auto
+
+# Treat .psd files as binary
+*.psd binary
+
